@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dominos-VietNam-Clone/static/css/main.9ad4d1c7.css",
+    "main.js": "/dominos-VietNam-Clone/static/js/main.812c7c82.js",
+    "static/js/787.72a3c617.chunk.js": "/dominos-VietNam-Clone/static/js/787.72a3c617.chunk.js",
+    "static/media/black-zone.png": "/dominos-VietNam-Clone/static/media/black-zone.3f6f6c9ec081ff8f60a1.png",
+    "static/media/banner_2.jpg": "/dominos-VietNam-Clone/static/media/banner_2.c51a4c699fc1f54eb1d6.jpg",
+    "static/media/modal-signin-signup.png": "/dominos-VietNam-Clone/static/media/modal-signin-signup.a9c7b03a929357cd7fca.png",
+    "static/media/deep-see.png": "/dominos-VietNam-Clone/static/media/deep-see.bd1e5d99ec29000acfeb.png",
+    "static/media/banner_4.jpg": "/dominos-VietNam-Clone/static/media/banner_4.6734145d36d57732a510.jpg",
+    "static/media/banner_6.jpg": "/dominos-VietNam-Clone/static/media/banner_6.df0d052c30948e3626bc.jpg",
+    "static/media/banner_3.jpg": "/dominos-VietNam-Clone/static/media/banner_3.65a5b0fa313f51dd53e4.jpg",
+    "static/media/banner_5.jpg": "/dominos-VietNam-Clone/static/media/banner_5.d9ff2e1316e44fbc85dc.jpg",
+    "static/media/banner_1.jpg": "/dominos-VietNam-Clone/static/media/banner_1.e287a322a37c4c189d8b.jpg",
+    "static/media/pizza-size-3.png": "/dominos-VietNam-Clone/static/media/pizza-size-3.14755956cfa1962d09ce.png",
+    "static/media/credentials.png": "/dominos-VietNam-Clone/static/media/credentials.c195773a56b6e1f7e650.png",
+    "static/media/pizza-size-2.png": "/dominos-VietNam-Clone/static/media/pizza-size-2.c4f693e3735d0e5cf4b4.png",
+    "static/media/pizza-base.png": "/dominos-VietNam-Clone/static/media/pizza-base.965c88b93696b9411ac8.png",
+    "static/media/pizza-size-1.png": "/dominos-VietNam-Clone/static/media/pizza-size-1.5fad53050d2a025801eb.png",
+    "index.html": "/dominos-VietNam-Clone/index.html",
+    "main.9ad4d1c7.css.map": "/dominos-VietNam-Clone/static/css/main.9ad4d1c7.css.map",
+    "main.812c7c82.js.map": "/dominos-VietNam-Clone/static/js/main.812c7c82.js.map",
+    "787.72a3c617.chunk.js.map": "/dominos-VietNam-Clone/static/js/787.72a3c617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad4d1c7.css",
+    "static/js/main.812c7c82.js"
+  ]
+}
