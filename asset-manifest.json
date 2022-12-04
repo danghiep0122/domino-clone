@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dominos-VietNam-Clone/static/css/main.9ad4d1c7.css",
-    "main.js": "/dominos-VietNam-Clone/static/js/main.812c7c82.js",
+    "main.css": "/dominos-VietNam-Clone/static/css/main.cfea41dc.css",
+    "main.js": "/dominos-VietNam-Clone/static/js/main.ddd3c1a8.js",
     "static/js/787.72a3c617.chunk.js": "/dominos-VietNam-Clone/static/js/787.72a3c617.chunk.js",
     "static/media/black-zone.png": "/dominos-VietNam-Clone/static/media/black-zone.3f6f6c9ec081ff8f60a1.png",
     "static/media/banner_2.jpg": "/dominos-VietNam-Clone/static/media/banner_2.c51a4c699fc1f54eb1d6.jpg",
@@ -18,12 +18,12 @@
     "static/media/pizza-base.png": "/dominos-VietNam-Clone/static/media/pizza-base.965c88b93696b9411ac8.png",
     "static/media/pizza-size-1.png": "/dominos-VietNam-Clone/static/media/pizza-size-1.5fad53050d2a025801eb.png",
     "index.html": "/dominos-VietNam-Clone/index.html",
-    "main.9ad4d1c7.css.map": "/dominos-VietNam-Clone/static/css/main.9ad4d1c7.css.map",
-    "main.812c7c82.js.map": "/dominos-VietNam-Clone/static/js/main.812c7c82.js.map",
+    "main.cfea41dc.css.map": "/dominos-VietNam-Clone/static/css/main.cfea41dc.css.map",
+    "main.ddd3c1a8.js.map": "/dominos-VietNam-Clone/static/js/main.ddd3c1a8.js.map",
     "787.72a3c617.chunk.js.map": "/dominos-VietNam-Clone/static/js/787.72a3c617.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ad4d1c7.css",
-    "static/js/main.812c7c82.js"
+    "static/css/main.cfea41dc.css",
+    "static/js/main.ddd3c1a8.js"
   ]
 }
